@@ -1,10 +1,20 @@
-<h1 align=center>Hey! :D</h1>
-  <p align=center>
-      Discord » Peppa.#0001
-  </p>
+## Peppa / Jack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DidntPot&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=#f600ff&icon_color=ffffff" alt="DidntPot" /></p>
+### Contact:
+ Discord: Peppa.#0001
 
-<p></p>
+### Developer:
+ PHP, Java, CSS, HTML, C#, C++.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidntPot&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=#f600ff&icon_color=ffffff" alt="DidntPot" />
+### Detailed Statistics
+<details>
+  <summary>Click</summary>
+  <img align="Bottom" src="https://metrics.lecoq.io/didntpot?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York" />
+</details>
+
+### Simple Statistics:
+<details>
+  <summary>Click</summary>
+   <img align="Left" alt="DidntPot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=didntpot&show_icons=true&hide_border=true&theme=dark" />
+   <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didntpot&layout=compact&hide_border=true&theme=dark"/>
+</details>
