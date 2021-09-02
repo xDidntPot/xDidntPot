@@ -1,9 +1,9 @@
 ## Peppa / Jack | ![Profile Views](https://komarev.com/ghpvc/?username=DidntPot&style=flat-square&color=red) <br>
 
-### Contact:
+### Contact
  Discord: Peppa.#0001
 
-### Developer:
+### Developer
  PHP, Java, CSS, HTML, C#, C++.
 
 ### Detailed Statistics
@@ -12,7 +12,7 @@
   <img align="Bottom" src="https://metrics.lecoq.io/didntpot?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York" />
 </details>
 
-### Simple Statistics:
+### Simple Statistics
 <details>
   <summary>Click</summary>
    <img align="Left" alt="DidntPot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=didntpot&show_icons=true&hide_border=true&theme=dark" />
