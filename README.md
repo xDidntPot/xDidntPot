@@ -1,7 +1,7 @@
 ## Peppa / Jack | ![Profile Views](https://komarev.com/ghpvc/?username=DidntPot&style=flat-square&color=red) <br>
 
 ### Contact
- Discord: Peppa.#0001
+ Discord: Jack.#1000
 
 ### Developer
  PHP, Java, CSS, HTML, C#, C++.
