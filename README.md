@@ -26,7 +26,7 @@
 A competitive `MCBE`/`MCPE` Practice server.
 
 IP: `sienamc.club` : `19132`
-Version: `1.16.100` - `Latest`
+Version: `1.17.x` - `1.18.0`
 
 Join our [Discord server](https://discord.gg/39UUkkS7Kz).
 
