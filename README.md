@@ -1,8 +1,5 @@
 ### Peppa / Jack | ![Profile Views](https://komarev.com/ghpvc/?username=DidntPot&style=flat-square&color=red) <br>
 
-### Contact
- Discord: `Peppa.#9814`
-
 ### Alias
  `Peppa`, `Jack`, `DidntPot`.
  
@@ -23,18 +20,9 @@
 </details>
 
 ### Siena
-A competitive `MCBE`/`MCPE` Practice server.
+A `MCBE`/`MCPE` Practice server.
 
-IP: `sienamc.club` : `19132`
-Version: `1.17.x` - `1.18.0`
+IP: `sienamc.net` : `19132`
 
-Join our [Discord server](https://discord.gg/39UUkkS7Kz).
-
-Visit our [Webstore](https://sienamc.tebex.io).
-
-Join `minecraft://?addExternalServer=Siena|sienamc.club:19132`.
-
-<details>
-  <summary>Check status</summary>
-  <img align="Bottom" img src="https://minecraftpocket-servers.com/server/109941/banners/regular-banner-4.png" border="0" />
-</details>
+Join our [Discord server](http://discord.sienamc.net).
+Visit our [Webstore](http://store.sienamc.net).
