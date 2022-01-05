@@ -24,5 +24,4 @@ A `MCBE`/`MCPE` Practice server.
 
 IP: `sienamc.net` : `19132`
 
-Join our [Discord server](http://discord.sienamc.net).
-Visit our [Webstore](http://store.sienamc.net).
+[Discord server](http://discord.sienamc.net) | [Webstore](http://store.sienamc.net)
