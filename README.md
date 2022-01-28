@@ -4,10 +4,10 @@
  `Peppa`, `Jack`, `DidntPot`.
  
 ### Discord:
- `Peppa.#1334`
+ `Peppa.#0001`
 
 ### Developer:
- `PHP`, `Java`, `CSS`, `HTML`, `C#`, `C++`, `GO`.
+ `PHP`, `Java`, `CSS`, `HTML`, `C#`, `GO`.
 
 ### View Statistics:
 <details>
