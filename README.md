@@ -1,17 +1,29 @@
-### Peppa / Jack | ![Profile Views](https://komarev.com/ghpvc/?username=DidntPot&style=flat-square&color=yellow) <br>
+### Peppa / Jack | ![Profile Views](https://komarev.com/ghpvc/?username=DidntPot&style=circle) <br>
 
 ### Alias:
  `Peppa`, `Jack`, `DidntPot`.
- 
-### Discord:
- `Peppa.#0001`
 
 ### Developer:
- `PHP`, `Java`, `CSS`, `HTML`, `C#`, `GO`.
+<a href="https://github.com/DidntPot" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+ 
+<a href="https://github.com/DidntPot" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
-### View Statistics:
-<details>
-  <summary>Click</summary>
-   <img align="Left" alt="DidntPot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=didntpot&show_icons=true&hide_border=true&theme=dark" />
-   <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didntpot&layout=compact&hide_border=true&theme=dark"/>
-</details>
+<a href="https://github.com/DidntPot" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
+<a href="https://github.com/DidntPot" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+
+<a href="https://github.com/DidntPot" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+
+<a href="https://github.com/DidntPot" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+
+### Statistics:
+![](https://github-readme-stats.vercel.app/api?username=DidntPot&show_icons=true&theme=dark)
+
+### Discord Status:
+[![Discord Status](https://lanyard.cnrad.dev/api/923172363191873566?theme=dark&animated=true&borderRadius=10px&idleMessage=Currently%20working%20on%20something.)](https://discord.com/users/923172363191873566)
