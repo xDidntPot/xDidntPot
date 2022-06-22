@@ -7,5 +7,5 @@
 
 ## Discord
 <a href="https://discord.com/users/923172363191873566">
-  <img src="https://lanyard-profile-readme.vercel.app/api/923172363191873566" align="left" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/673489564962258944" align="left" />
 </a>
