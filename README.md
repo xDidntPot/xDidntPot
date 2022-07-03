@@ -4,8 +4,3 @@
 ## Statistics
 ![](https://github-readme-stats.vercel.app/api?username=xdidntpot&show_icons=true&theme=dark&custom_title=xDidntPot&border_radius=5)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=xdidntpot&theme=dark&layout=compact&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
-
-## Discord
-<a href="https://discord.com/users/923172363191873566">
-  <img src="https://lanyard-profile-readme.vercel.app/api/673489564962258944" align="left" />
-</a>
