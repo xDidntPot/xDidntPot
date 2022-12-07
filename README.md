@@ -1,5 +1,8 @@
 ### Peppa / Jack | ![Profile Views](https://komarev.com/ghpvc/?username=DidntPot&style=circle) <br>
 
+## MOVED
+> https://github.com/DidntPot
+
 ### Alias:
  `Peppa`, `Jack`, `DidntPot`.
 
