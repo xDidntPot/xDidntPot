@@ -29,4 +29,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=DidntPot&show_icons=true&theme=dark)
 
 ### Discord Status:
-[![Discord Status](https://lanyard.cnrad.dev/api/923172363191873566?theme=dark&animated=true&borderRadius=10px&idleMessage=Currently%20working%20on%20something.)](https://discord.com/users/923172363191873566)
+[![Discord Status](https://lanyard.cnrad.dev/api/673489564962258944?theme=dark&animated=true&borderRadius=10px&idleMessage=Currently%20working%20on%20something.)](https://discord.com/users/673489564962258944)
