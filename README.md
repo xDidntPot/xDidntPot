@@ -1,10 +1,5 @@
-### Peppa / Jack | ![Profile Views](https://komarev.com/ghpvc/?username=DidntPot&style=circle) <br>
-
 ## MOVED
 > https://github.com/DidntPot
-
-### Alias:
- `Peppa`, `Jack`, `DidntPot`.
 
 ### Developer:
 <a href="https://github.com/DidntPot" target="_blank" rel="noreferrer"> 
@@ -29,4 +24,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=DidntPot&show_icons=true&theme=dark)
 
 ### Discord Status:
-[![Discord Status](https://lanyard.cnrad.dev/api/673489564962258944?theme=dark&animated=true&borderRadius=10px&idleMessage=Currently%20working%20on%20something.)](https://discord.com/users/673489564962258944)
+[![Discord Status](https://lanyard.cnrad.dev/api/318272839918813184?theme=dark&animated=true&borderRadius=10px&idleMessage=Currently%20working%20on%20something.)](https://discord.com/users/318272839918813184)
